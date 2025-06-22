@@ -1,0 +1,6 @@
+colorama==0.4.6
+requests==2.31.0
+scapy==2.5.0
+termcolor==2.4.0
+pyfiglet==1.0.2
+rich==13.7.1
